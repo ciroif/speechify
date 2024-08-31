@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <div className="container">
+    <div className="container text-center">
       <img
         src="/speechify-logo.png"
         alt="Speechify Logo"
